@@ -1,1 +1,8 @@
-
+ggplot2
+plotly
+gapminder
+tidyverse
+tidyquant
+GGally
+viridis
+hrbrthemes
