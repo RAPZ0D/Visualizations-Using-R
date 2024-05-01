@@ -46,4 +46,9 @@ In the `visualization/plotly` folder, you'll find interactive and advanced visua
 - Stacked Density Plots
 - Animated Scatterplots
 
-- 
+Each visualization is interactive and provides a dynamic user experience. Screenshots are provided for reference.
+
+## Additional Notes
+
+- Make sure to have the required R libraries installed to reproduce these visualizations.
+- Feel free to explore the code in each folder and experiment with different datasets and parameters.
