@@ -19,3 +19,17 @@ In this project, I explored various advanced visualization techniques using R, f
 - GGally
 - viridis
 - hrbrthemes
+
+## Contents
+
+### ggplot2 Visualizations
+
+In the `visualization/ggplot2` folder, you'll find advanced visualizations created using the `ggplot2` library. These visualizations include:
+
+- Scatterplots
+- Boxplots
+- Violin Plots
+- Ridgeline Plots
+- Stacked Density Plots
+- Heatmaps
+
