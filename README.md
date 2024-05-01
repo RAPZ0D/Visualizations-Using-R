@@ -35,6 +35,10 @@ In the `visualization/ggplot2` folder, you'll find advanced visualizations creat
 
 Each visualization is accompanied by a brief description and a screenshot.
 
+### Sample Screenshot 
+
+![regions labels scatterplot](https://github.com/RAPZ0D/Visualizations-Using-R/assets/100001521/24765af8-bddc-42ee-871f-1845776d030b)
+
 ### plotly Visualizations
 
 In the `visualization/plotly` folder, you'll find interactive and advanced visualizations created using the `plotly` library. These visualizations include:
