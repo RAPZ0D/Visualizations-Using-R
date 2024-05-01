@@ -54,7 +54,7 @@ Each visualization is interactive and provides a dynamic user experience. Screen
 
 ### Sample Screenshot 
 
-![plot4](https://github.com/RAPZ0D/Visualizations-Using-R/assets/100001521/0fdd0e7d-e9a1-4d6d-8485-b9f90d95b3c8)
+![plot8](https://github.com/RAPZ0D/Visualizations-Using-R/assets/100001521/33e4157c-e594-4107-8826-ce7837333635)
 
 
 ## Additional Notes
