@@ -52,6 +52,11 @@ In the `visualization/plotly` folder, you'll find interactive and advanced visua
 
 Each visualization is interactive and provides a dynamic user experience. Screenshots are provided for reference.
 
+### Sample Screenshot 
+
+![plot4](https://github.com/RAPZ0D/Visualizations-Using-R/assets/100001521/0fdd0e7d-e9a1-4d6d-8485-b9f90d95b3c8)
+
+
 ## Additional Notes
 
 - Make sure to have the required R libraries installed to reproduce these visualizations.
