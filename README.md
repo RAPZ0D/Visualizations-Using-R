@@ -33,3 +33,17 @@ In the `visualization/ggplot2` folder, you'll find advanced visualizations creat
 - Stacked Density Plots
 - Heatmaps
 
+Each visualization is accompanied by a brief description and a screenshot.
+
+### plotly Visualizations
+
+In the `visualization/plotly` folder, you'll find interactive and advanced visualizations created using the `plotly` library. These visualizations include:
+
+- Interactive Scatterplots
+- Bubbleplots
+- Dumbbell Charts
+- Interactive Barplots
+- Stacked Density Plots
+- Animated Scatterplots
+
+- 
